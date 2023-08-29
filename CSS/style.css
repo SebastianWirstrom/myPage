@@ -1,0 +1,44 @@
+header {
+  background-color: #e8deff;
+  text-align: right;
+}
+
+.headerClass {
+  padding-right: 4px;
+}
+
+.headerClass a:hover {
+  color: #252525;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Handjet";
+  font-size: 100px;
+}
+
+.icon-bar {
+  background-color: #b59cf1;
+  text-align: center;
+  font-size: 70px;
+}
+
+.fa-regular fa-desktop {
+  font-size: 60px;
+}
+
+.icon-bar a:hover {
+  background-color: #8469c2;
+}
+
+footer {
+  color: #252525;
+  background-color: #e8deff;
+  padding: 30px;
+  text-align: center;
+}
+
+footer span {
+  color: #87858b;
+}

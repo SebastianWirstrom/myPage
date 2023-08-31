@@ -7,9 +7,9 @@ header {
   padding-right: 4px;
 }
 
-.headerClass a:hover {
+    .headerClass a:hover {
   color: #252525;
-}
+    }
 
 h1 {
   text-align: center;
@@ -19,7 +19,7 @@ h1 {
 }
 
 .icon-bar {
-  background-color: #b59cf1;
+  background-color: rgb(181, 156, 241);
   text-align: center;
   font-size: 70px;
 }
@@ -28,17 +28,44 @@ h1 {
   font-size: 60px;
 }
 
-.icon-bar a:hover {
+    .icon-bar a:hover {
   background-color: #8469c2;
+    }
+
+.body-symbol {
+  text-align: center;
+  padding: 50px;
+  
+  
+  
 }
+
+    .fa-envelope {
+         margin: 40px;
+    }
+    .fa-gamepad {
+        margin: 40px;
+        font-size: 75px;
+    }
+    .fa-desktop {
+        margin: 40px;
+        font-size: 60px;
+    }
+    .fa-square-question {
+         margin: 40px;
+         font-size: 65px;       
+    }
+
+
+
 
 footer {
   color: #252525;
-  background-color: #e8deff;
+  background-color: rgb(232, 222, 255);
   padding: 30px;
   text-align: center;
 }
 
-footer span {
+    footer span {
   color: #87858b;
-}
+    }

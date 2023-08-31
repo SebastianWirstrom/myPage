@@ -7,8 +7,8 @@ header {
   padding-right: 4px;
 }
 
-    .headerClass a:hover {
-  color: #252525;
+    .fa-brands a:hover {
+  color: #dbdbdb;
     }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
   font-size: 70px;
 }
 
-.fa-regular fa-desktop {
+.fa-thin {
   font-size: 60px;
 }
 
@@ -40,16 +40,12 @@ h1 {
   
 }
 
-    .fa-envelope {
+    .fa-mailbox-flag-up {
          margin: 40px;
     }
     .fa-gamepad {
         margin: 40px;
         font-size: 75px;
-    }
-    .fa-desktop {
-        margin: 40px;
-        font-size: 60px;
     }
     .fa-square-question {
          margin: 40px;
